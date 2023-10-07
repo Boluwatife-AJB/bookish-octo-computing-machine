@@ -599,7 +599,7 @@ button {
     font-family: 14px;
   }
   .container {
-    margin: 0 2%;
+    margin: 0 5%;
     /* border: 1px solid mediumseagreen; */
   }
 
@@ -690,6 +690,7 @@ button {
 
   .offer-cards {
     grid-template-columns: repeat(2, 1fr);
+    gap: 0.3rem;
   }
 
   .offer-card {
